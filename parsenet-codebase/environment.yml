@@ -1,0 +1,13 @@
+name: Parsenet
+channels:
+  - defaults
+dependencies:
+  - certifi=2021.5.30=py36haa95532_0
+  - pip=21.2.2=py36haa95532_0
+  - python=3.6.6=hea74fb7_0
+  - setuptools=58.0.4=py36haa95532_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py36h7fe50ca_0
+prefix: C:\Users\kunal\anaconda3\envs\Parsenet
